@@ -1,0 +1,51 @@
+a {
+    text-decoration: none;
+    color: rgb(10, 10, 9);
+}
+.navbar{
+    background-color:#7bbae5;
+align-items: center;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.fa-brands{
+    font-size: 50px;
+    color: magenta;
+}
+h2{
+    color: rgb(48, 56, 59);
+}
+h5{
+    color: chocolate;
+}
+h1{
+    font-weight: 700;
+}
+h2{
+    font-weight: 600;
+}
+#contact{
+background: linear-gradient(to right, #404341, #a5a296);
+    width: 600px;
+    height: 440px;
+   align-items: center;
+   border-radius: 15px;
+}
+textarea,input{
+    width: 250px;
+    border-radius: 5px;
+}
+.active {
+    font-weight: 500;
+    color: rgb(214, 112, 112);
+}
+
+#sm{
+    width: 200px;
+    height: 200px;
+    background-color: #f8f9fa;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
